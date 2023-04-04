@@ -6,4 +6,4 @@ tipka A za prižig motorja (ključ)
 zaganjalnik (motor)
 skrivno stikalo B
 senzor M (uporabljeno stikalo)
-![ggfg]()
+![Priredbeni seznam](https://github.com/peteln123/-Za-itno-v-iganje-avtom.-motorja/blob/main/begoluka.png?raw=true)
