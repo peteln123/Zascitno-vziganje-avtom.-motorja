@@ -6,3 +6,4 @@ tipka A za prižig motorja (ključ)
 zaganjalnik (motor)
 skrivno stikalo B
 senzor M (uporabljeno stikalo)
+![ggfg]()
