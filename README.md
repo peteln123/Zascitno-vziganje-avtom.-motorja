@@ -7,3 +7,13 @@ zaganjalnik (motor)
 skrivno stikalo B
 senzor M (uporabljeno stikalo)
 ![Priredbeni seznam](https://github.com/peteln123/-Za-itno-v-iganje-avtom.-motorja/blob/main/begoluka.png?raw=true)
+
+
+Kosovnica:
+- Protoboard
+- Arduino
+- 2 stikali
+- LED žarnica
+- 1 tipka
+- 11 žic
+- 
